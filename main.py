@@ -1,7 +1,15 @@
 """Snail Race, by Al Sweigart al@inventwithpython.com
 Fast-paced snail racing action!
 View this code at https://nostarch.com/big-book-small-python-projects
-Tags: short, artistic, beginner, game, multiplayer"""
+Tags: short, artistic, beginner, game, multiplayer
+
+v2 goals
+- add color to snails
+- Change races to series/grand prix - Series of 5-7 races
+- keep track of w/l, assign points based on placement
+- create podium for annoucement of results
+- Consider created automated version of game that automatically generates names
+"""
 
 import random, time, sys
 
